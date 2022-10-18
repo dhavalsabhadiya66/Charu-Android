@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="colorPrimary">#01385e</color>
+<color name="cardcolor">#1c232237</color>
+<color name="colorPrimaryDark">#FF050E50</color>
+<color name="colorAccent">#333333</color>
+<color name="white">#ffffff</color>
+<color name="black">#000000</color>
+<color name="gray">#EEEEEE</color>
+<color name="darkGray">#777777</color>
+<color name="bluetrans">#9696E7</color>
+    <color name="red">#bb3334</color>
+    <color name="blue">#250ED7</color>
+    <color name="orange">#ea7b2a</color>
+    <color name="card_background_normal">@color/white</color>
+    <color name="card_background_pressed">#EEEEEE</color>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CHARU</string>
+    <string name="app_name_home">CHARU INDUSTRIES</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="spinner_title">Select Type</string>
+
+    <string-array name="country_arrays">
+        <item>Broker</item>
+        <item>Customer</item>
+    </string-array>
+
+    <string name="searchproject_title">Select Search</string>
+
+    <string-array name="searchproject_arrays">
+        <item>Project Name</item>
+        <item>Location</item>
+    </string-array>
+
+    <string name="searchcustomer_title">Select Search</string>
+
+    <string-array name="searchcustomer_arrays">
+        <item>Customer Name</item>
+        <item>Addresss</item>
+        <item>Phone</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
